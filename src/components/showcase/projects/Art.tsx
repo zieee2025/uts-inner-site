@@ -8,35 +8,26 @@ export interface ArtProjectsProps {}
 const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
     return (
         <div className="site-page-content">
-            <h1>Art & Design</h1>
-            <h3>Endeavors</h3>
+            <h1>Entry No. 3</h1>
+            <h3>The Authentic Mask?</h3>
             <br />
             <div className="text-block">
                 <p>
-                    While I love programming and software development, Art,
-                    Design, and Animation will always hold a special place in my
-                    heart.
-                </p>
-                <br />
-                <p>
-                    Here are a few projects/things I've done over the years to
-                    keep the artistic side of me alive. I'm always looking to
-                    push myself creatively and learn new things.
+                    There was a time that was really weird, you know? It felt like I was just watching myself, like my life was a movie playing on a TV, and I was stuck behind my own eyes, just watching the character that was me. I felt totally numb, like I couldn't touch anything real, and the whole world just kept spinning and passing by without me actually being in it. That feeling lasted for months, where I was just an observer, and everything felt easy to look at but hard to care about.
                 </p>
             </div>
             <div className="text-block">
-                <h2>Pixel Art and Animation</h2>
+                <h2>Unified and Multiple Selves</h2>
                 <br />
                 <p>
-                    WIP
+                    The most powerful topic I encountered that redefined my understanding of identity was the psychological contrast between the Unified Self and the Multiple Self. This dichotomy forced me to examine whether my identity is a single, consistent core or a collection of different "masks" I wear.
                 </p>
                 <br />
                 <div className="captioned-image">
                     <img src={girlRun} alt="" />
                     <p>
                         <sub>
-                            <b>Figure 1:</b> Eight Frame Run cycle animated by
-                            myself, original sprite by kevink
+                            <b>Figure 1:</b> Art
                         </sub>
                     </p>
                 </div>
@@ -44,7 +35,7 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     WIP
                 </p>
                 <br />
-                <h3>Video Links:</h3>
+                <h3>Reflection</h3>
                 <br />
                 <ul>
                     <li>
