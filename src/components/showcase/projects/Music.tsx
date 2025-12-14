@@ -23,27 +23,9 @@ const MusicProjects: React.FC<MusicProjectsProps> = (props) => {
             <br />
             <div className="text-block">
                 <p>
-                    Music has been a passion of mine for my whole life. When I
-                    was 15 years old, I downloaded FL Studio and started to
-                    produce my own music. I found a wonderful community on
-                    reddit called r/edmproduction and in 2016 created the now
-                    popular discord server EDM Production with over 14k members.
+                
                 </p>
             </div>
-            <h2>Exploring house</h2>
-            <br />
-            <p>
-                In 2020 I went through a phase of really enjoying house. Some of
-                my favorite artists at the time were Malaa, Chirs Lake, Kyle
-                Walker and many more. Inspired, I decided to take a stab at
-                making some house tracks.
-            </p>
-            <br />
-            <p>
-                I failed a few times as I wasn't really able to nail the style
-                and groove I was going for but ultimately ended up creating the
-                piece below.
-            </p>
             <br />
 
             <MusicPlayer
@@ -69,23 +51,23 @@ const MusicProjects: React.FC<MusicProjectsProps> = (props) => {
             </p>
             <br />
             <p>
-                After making this track around fall 2020, my interest for house
-                overall was tapering off. Around this time I was starting to go
-                to the gym more consistently and ended up listening to a lot
-                more hard bass music, specifically drum & bass, mid tempo and of
-                course dubstep.
             </p>
             <br />
-            <h2>Mid-Tempo?</h2>
+            <h2>Reflection</h2>
             <br />
             <p>
-                Only about a month after taking a step away from house I started
-                working on a mid-tempo track which I called edge. I did a lot of
-                experimenting with this track, and to this day I'm very proud
-                with how it turned out. I never got around to finishing it up
-                and giving it a proper outro, but I'm still very happy with it's
-                current state.
+                Making this five-year plan was really helpful because it took my big dreams and turned them into clear, simple steps. It helped me set goals that are easy to check and track in three main areas: school success, staying healthy, and getting a job.
             </p>
+            <br />
+            <br />
+            <p> The hardest part of engineering school is the courses, so Academic Stability is my first priority. I learned that getting good grades isn't the only point; it's about learning how to study hard and understand difficult things like forces and structures. If I do well here, everything else, like graduating on time, will be much easier.
+            </p>
+            <br />
+            <p>I also realized that I can’t ignore my health. Health and Balance is about making sure I don't burn out. Promising to exercise three times a week and take short, calm breaks every day shows I know that engineering school is a long race. Keeping my mind and body healthy is my way of playing defense against the huge stress I know is coming in the later years.</p>
+            <br />
+            <p>The last goal, Professional Preparedness, is the finish line. It means more than just getting a diploma; it means passing the government’s Board Exam right away and landing a job at a good company. This makes me focus on finding an internship next year and setting aside time to study for that exam before graduation.</p>
+            <br />
+            <p>Thinking about the biggest worry, failing one subject, was the most important part of the plan. My strategy is simple: if I fail, I won't panic. I will first take a deep breath to calm down, then immediately get back to my study routine to fix the problem, and only study when I feel mentally ready so I don't waste time being frustrated. This entire plan helps me solve problems in school and manage myself, making my goal of becoming an engineer feel very real and doable.</p>
             <br />
             <MusicPlayer
                 src={edge}
