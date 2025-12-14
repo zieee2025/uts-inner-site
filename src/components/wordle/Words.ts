@@ -1,5 +1,5 @@
 const WORDS = [
-    'ethel'
+    'ethel',
     'which',
     'there',
     'their',
