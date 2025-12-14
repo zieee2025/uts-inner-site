@@ -13,8 +13,8 @@ export interface SoftwareProjectsProps {}
 const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
     return (
         <div className="site-page-content">
-            <h1>Software</h1>
-            <h3>Projects</h3>
+            <h1>Entry No. 1</h1>
+            <h3>The Metacognitive Learner</h3>
             <br />
             <p>
                 Below are some of my favorite software projects I have worked on
@@ -24,27 +24,17 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
             <ResumeDownload />
             <br />
             <div className="text-block">
-                <h2>henryheffernan.com</h2>
+                <h2>MIA</h2>
                 <br />
                 <p>
-                    henryheffernan.com is my portfolio website, and also the
-                    website you are on right now. This project was an absolute
-                    joy to make and challenged me both technically and
-                    creatively. Early in 2022, I knew I wanted to make an
-                    interactive portfolio to aid my job search. I eventually got
-                    the idea for this site around early February and began
-                    development early March. I've been developing it alongside
-                    my last semester at school and if you are reading this, it's
-                    pretty much done!
+                    I've finished taking the Metacognitive Awareness Inventory (MAI), and the results are eye-opening. It's not just a score; it's a map. The realizations are hitting me.
                 </p>
                 <br />
                 <div className="captioned-image">
                     <VideoAsset src={computer} />
                     <p style={styles.caption}>
                         <sub>
-                            <b>Figure 1:</b> Blender Scene of the 3D website.
-                            The scene from Blender was baked and exported in a
-                            GLTF format.
+                            <b>Figure 1:</b> Page 1
                         </sub>
                     </p>
                 </div>
