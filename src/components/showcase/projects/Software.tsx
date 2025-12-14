@@ -24,7 +24,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
             <ResumeDownload />
             <br />
             <div className="text-block">
-                <h2>MIA</h2>
+                <h2>MAI</h2>
                 <br />
                 <p>
                     I've finished taking the Metacognitive Awareness Inventory (MAI), and the results are eye-opening. It's not just a score; it's a map. The realizations are hitting me.
@@ -34,76 +34,14 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     <VideoAsset src={computer} />
                     <p style={styles.caption}>
                         <sub>
-                            <b>Figure 1:</b> Page 1
+                            <b>Figure 1:</b> Summary
                         </sub>
                     </p>
                 </div>
                 <p>
-                    Now, a quick technical breakdown of the site. The website is
-                    split into two parts, the 3D site, and the 2D OS site. The
-                    3D site uses Three.js to render the scene and renders the 2D
-                    site inside of it using an iframe. The 2D OS site is a
-                    simple react site that is hosted{' '}
-                    <a
-                        rel="noreferrer"
-                        target="_blank"
-                        href="https://henryheffernan.vercel.app/"
-                    >
-                        here
-                    </a>{' '}
-                    and works as a standalone web app. The actual rendering of
-                    the 2D site is accomplished using a CSS renderer provided by
-                    Three.js that transforms the html of the 2D site with 3D CSS
-                    transforms to give the illusion of three dimensionality.
+                  
                 </p>
-                <br />
-                <h3>Links:</h3>
-                <ul>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://henryheffernan.com"
-                        >
-                            <p>
-                                <b>[3D Site]</b> - henryheffernan.com
-                            </p>
-                        </a>
-                    </li>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://henryheffernan.vercel.app/"
-                        >
-                            <p>
-                                <b>[OS Site]</b> - henryheffernan.vercel.app
-                            </p>
-                        </a>
-                    </li>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://github.com/henryjeff/portfolio-website"
-                        >
-                            <p>
-                                <b>[GitHub]</b> - 3D Site Repository
-                            </p>
-                        </a>
-                    </li>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://github.com/henryjeff/portfolio-inner-site"
-                        >
-                            <p>
-                                <b>[GitHub]</b> - OS Site Repository
-                            </p>
-                        </a>
-                    </li>
-                </ul>
+                
                 <p>
                     I'm skipping over a lot of details in exchange for brevity,
                     but I do plan on doing a more in depth breakdown for those
