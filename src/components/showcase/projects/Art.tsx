@@ -20,7 +20,7 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                 <h2>Unified and Multiple Selves</h2>
                 <br />
                 <p>
-                    I am sharing an art made by one of of my favorite artist, Miles Johnston, because I think it gives meaning to this entry :), The photo shows a woman's face shown like it's made of multiple layers that are sliding away, one after the other. It's meant to show that people aren't just one simple person; we all have lots of different sides or "selves" inside us.
+                    I am sharing an art made by one of my favorite artist, Miles Johnston, because I think it gives meaning to this entry :), The photo shows a woman's face shown like it's made of multiple layers that are sliding away, one after the other. It's meant to show that people aren't just one simple person; we all have lots of different sides or "selves" inside us.
                 <br />
                 <div className="captioned-image">
                     <img src={girlRun} alt="" />
@@ -38,7 +38,9 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                 <br />
                 <h3>Reflection</h3>
                 <p>
-                    WIP
+                    The big idea about the Unified Self and the Multiple Self gave me a much needed way to feel good about myself. It was a huge relief. This concept took away the stress of thinking that acting differently in different situations sometimes meant I was being fake or somehow not whole. This new way of seeing things showed me clearly that changing how I act to fit a certain time or place is actually a good skill that helps me deal with life in a better way. The most important lesson I learned is that being real does not mean you have to be one unmoving block everywhere you go or with every person you meet. Instead, being real is about the strong center inside you that guides everything you do and every part you play. This stable, core identity is like the "root" of a tree, and all my different actions or roles are simply the "branches" that reach out into the world.
+
+This powerful idea instantly lessened the worry I felt about doing things differently in front of different people. It proves to me that I need separate ways of acting and thinking, like the deep focus and quiet I need for school work and the easy humor and loud talk I use when I am with friends. This difference is not a fault; it is a tool. The biggest discovery I made is that my true self is not found in the specific role I play at the moment but in the firm link between that role and my most important values. This means I can change my outward behavior, but my inner guide remains steady. This realization makes me feel free to move between different groups of people and different parts of my life without fearing I am fooling anyone or losing who I really am.
                 </p>
                 {/* <h3> Screen record time-lapses and make gifs</h3> */}
             </div>
