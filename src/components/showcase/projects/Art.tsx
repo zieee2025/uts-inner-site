@@ -20,62 +20,23 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                 <h2>Unified and Multiple Selves</h2>
                 <br />
                 <p>
-                    The most powerful topic I encountered that redefined my understanding of identity was the psychological contrast between the Unified Self and the Multiple Self. This dichotomy forced me to examine whether my identity is a single, consistent core or a collection of different "masks" I wear.
-                </p>
+                    I am sharing an art made by one of of my favorite artist, Miles Johnston, because I think it gives meaning to this entry :), The photo shows a woman's face shown like it's made of multiple layers that are sliding away, one after the other. It's meant to show that people aren't just one simple person; we all have lots of different sides or "selves" inside us.
                 <br />
                 <div className="captioned-image">
                     <img src={girlRun} alt="" />
                     <p>
                         <sub>
-                            <b>Figure 1:</b> Art
+                            <b>Figure 1:</b> Art by Miles Johnston.
                         </sub>
                     </p>
                 </div>
                 <p>
-                    WIP
+                    The most powerful topic I encountered that redefined my understanding of identity was the psychological contrast between the Unified Self and the Multiple Self. This dichotomy forced me to examine whether my identity is a single, consistent core or a collection of different "masks" I wear.
+                </p>
+                <p> The idea that I have a unified self, my core identity, while also having multiple selves, like the helpful friend or the focused student, instantly made sense because it proved that adapting how I act in different situations is not being fake or being plastic, it is simply me using The Authentic Mask, a genuine way to adapt and connect while staying true to my beliefs. To make this concept practical and improve my life I will focus on two simple deliberate actions: first, I will strengthen my unified self by prioritizing one core feeling each week by intentionally choosing to act in ways that make me feel whole and consistent and second, I will use a simple conscious action to transition between roles by setting a physical boundary for example putting on noise canceling headphones and clearing my workspace when I switch from being fully engaged with friends to focusing on studies ensuring my multiple selves are present and fully engaged.</p>
                 </p>
                 <br />
                 <h3>Reflection</h3>
-                <br />
-                <ul>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://www.youtube.com/watch?v=pDtUX3ZVHJ0"
-                        >
-                            <p>
-                                <b>VIDEO</b> - Pixel Art Walk Cycle Time-lapse
-                                and Tutorial
-                            </p>
-                        </a>
-                    </li>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://www.youtube.com/watch?v=xXEDKQ3wSfM"
-                        >
-                            <p>
-                                <b>VIDEO</b> - Pixel Art "Bag Up" Animation
-                                Time-lapse
-                            </p>
-                        </a>
-                    </li>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://www.youtube.com/watch?v=leZzb-Y0SKQ"
-                        >
-                            <p>
-                                <b>VIDEO</b> - Pixel Art Bipedal Creature Run
-                                Cycle Time-lapse
-                            </p>
-                        </a>
-                    </li>
-                </ul>
-                <br />
                 <p>
                     WIP
                 </p>
