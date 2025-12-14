@@ -25,24 +25,71 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                 </p>
             </div>
             <div className="text-block">
-                <h2>WIP</h2>
+                <h2>Pixel Art and Animation</h2>
                 <br />
                 <p>
-                   WIP
+                    
                 </p>
                 <br />
                 <div className="captioned-image">
                     <img src={girlRun} alt="" />
                     <p>
                         <sub>
-                            <b>Figure 1:</b> WIP
-                        </sub>
+                            <b>Figure 1:</b>
+                        </sub> 
                     </p>
                 </div>
                 <p>
-                    WIP
+                 
                 </p>
-               
+                <br />
+                <h3>Video Links:</h3>
+                <br />
+                <ul>
+                    <li>
+                        <a
+                            rel="noreferrer"
+                            target="_blank"
+                            href=""
+                        >
+                            <p>
+                                <b>VIDEO</b>
+                            </p>
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                            rel="noreferrer"
+                            target="_blank"
+                            href=""
+                        >
+                            <p>
+                                <b>VIDEO</b>
+                            </p>
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                            rel="noreferrer"
+                            target="_blank"
+                            href=""
+                        >
+                            <p>
+                                <b>VIDEO</b> 
+                            </p>
+                        </a>
+                    </li>
+                </ul>
+                <br />
+                <p>
+                    This page is currently a work in progress. I've recently
+                    found myself wanting to make more pixel art recently and I
+                    have some project plans and ideas in the works. Expect
+                    updates to this page as I dive back into the world of pixel
+                    art!
+                </p>
+                {/* <h3> Screen record time-lapses and make gifs</h3> */}
+            </div>
         </div>
     );
 };
