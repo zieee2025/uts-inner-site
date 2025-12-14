@@ -28,11 +28,7 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                 <h2>Pixel Art and Animation</h2>
                 <br />
                 <p>
-                    In high school, I started learning how to draw and animate
-                    pixel art after becoming interested in video game
-                    development. As I worked on making games over the years, I
-                    learned so much about pixel art and fell in love with
-                    animation.
+                    WIP
                 </p>
                 <br />
                 <div className="captioned-image">
@@ -45,12 +41,7 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     </p>
                 </div>
                 <p>
-                    I really started enjoying the work I was doing, and felt I
-                    was improving a lot. Around 2017, I started to upload videos
-                    of my work flow and animation process to YouTube just for
-                    fun. I was really surprised however when my first video took
-                    off and got a few thousand views! Below are the video links
-                    to the work I uploaded to youtube.
+                    WIP
                 </p>
                 <br />
                 <h3>Video Links:</h3>
@@ -95,11 +86,7 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                 </ul>
                 <br />
                 <p>
-                    This page is currently a work in progress. I've recently
-                    found myself wanting to make more pixel art recently and I
-                    have some project plans and ideas in the works. Expect
-                    updates to this page as I dive back into the world of pixel
-                    art!
+                    WIP
                 </p>
                 {/* <h3> Screen record time-lapses and make gifs</h3> */}
             </div>
