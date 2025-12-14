@@ -29,21 +29,6 @@ const MusicProjects: React.FC<MusicProjectsProps> = (props) => {
                     reddit called r/edmproduction and in 2016 created the now
                     popular discord server EDM Production with over 14k members.
                 </p>
-                <br />
-                <p>
-                    I don't release the music that I make publicly as I not only
-                    find it difficult to finish songs, but also it's not a
-                    priority of mine since I produce mostly because I enjoy the
-                    process of learning and creating. However if I am going to
-                    dedicate a whole page of my portfolio to my music, you bet
-                    I'll have some examples to showoff.
-                </p>
-                <br />
-                <p>
-                    Below are some more recent Musical Endeavors I've been
-                    working on. I hope you enjoy the music and enjoy the stories
-                    behind each of the tracks.
-                </p>
             </div>
             <h2>Exploring house</h2>
             <br />
@@ -63,8 +48,8 @@ const MusicProjects: React.FC<MusicProjectsProps> = (props) => {
 
             <MusicPlayer
                 src={house}
-                title="Timeless"
-                subtitle="Henry Heffernan - 2022"
+                title="Let it Be"
+                subtitle="The Beatles"
                 currentSong={currentSong}
                 setCurrentSong={setCurrentSong}
             />
