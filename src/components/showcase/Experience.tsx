@@ -14,9 +14,9 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href={'https://hover.gg/'}
+                            href={''}
                         >
-                            <h4>www.hover.gg</h4>
+                            <h4></h4>
                         </a>
                     </div>
                     <div style={styles.headerRow}>
@@ -67,9 +67,9 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                         <a
                             target="_blank"
                             rel="noreferrer"
-                            href={'https://bracs.co/'}
+                            href={'/'}
                         >
-                            <h4>www.bracs.co</h4>
+                            <h4></h4>
                         </a>
                     </div>
                     <div style={styles.headerRow}>
@@ -115,9 +115,9 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                         <a
                             target="_blank"
                             rel="noreferrer"
-                            href={'https://kfxnyc.com/'}
+                            href={''}
                         >
-                            <h4>www.kfxnyc.com</h4>
+                            <h4></h4>
                         </a>
                     </div>
                     <div style={styles.headerRow}>
@@ -133,18 +133,18 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                     .
                 </p>
                 <br />
-                <h3 style={styles.indent}>Screen Credits:</h3>
+                <h3 style={styles.indent}></h3>
                 <ul>
                     <li style={styles.row}>
                         <p></p>
                         <p>
                             [{' '}
                             <a
-                                href="https://www.sho.com/ray-donovan"
+                                href=""
                                 target="_blank"
                                 rel="noreferrer"
                             >
-                                SHOWTIME
+                               
                             </a>{' '}
                             ]
                         </p>
