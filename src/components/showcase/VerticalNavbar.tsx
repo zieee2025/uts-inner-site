@@ -42,7 +42,7 @@ const VerticalNavbar: React.FC<VerticalNavbarProps> = (props) => {
                 <Link
                     containerStyle={styles.link}
                     to="experience"
-                    text="EXPERIENCE"
+                    text="JFA"
                 />
                 <Link
                     containerStyle={Object.assign(
@@ -51,7 +51,7 @@ const VerticalNavbar: React.FC<VerticalNavbarProps> = (props) => {
                         projectsExpanded && styles.expandedLink
                     )}
                     to="projects"
-                    text="PROJECTS"
+                    text="Understanding the Self"
                 />
                 {
                     // if current path contains projects
@@ -60,17 +60,17 @@ const VerticalNavbar: React.FC<VerticalNavbarProps> = (props) => {
                             <Link
                                 containerStyle={styles.insetLink}
                                 to="projects/software"
-                                text="SOFTWARE"
+                                text="Entry No. 1"
                             />
                             <Link
                                 containerStyle={styles.insetLink}
                                 to="projects/music"
-                                text="MUSIC"
+                                text="Entry No. 2"
                             />
                             <Link
                                 containerStyle={styles.insetLink}
                                 to="projects/art"
-                                text="ART"
+                                text="Entry No. 3"
                             />
                         </div>
                     )
