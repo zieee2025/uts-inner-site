@@ -60,19 +60,12 @@ const MusicProjects: React.FC<MusicProjectsProps> = (props) => {
                 <img src={houseProject} alt="" />
                 <p>
                     <sub>
-                        <b>Figure 1:</b> A screenshot of the project file of
-                        Timeless. 64 tracks in total.
+                        <b>Figure 1:</b> Roadmap of my Five-Year Plan.
                     </sub>
                 </p>
             </div>
             <p>
-                I love so much about this track. I'm particularly very proud of
-                the composition and the trichotomy of the happy upbeat energy in
-                the intro and first drop, into the rich and euphoric bridge,
-                before delving into the darkness of the final build and drop. I
-                had an absolute blast making this back in the fall of 2020, and
-                every time I revisit it to tweak it just a little more, I have
-                so much fun.
+                The major threat to my goals is the massive disruption caused if I fail one subject, which immediately delays my graduation, causes intense stress, and impacts my job timeline. My adaptive coping strategy is I will first take a conscious breath to manage the initial stress, then immediately re-focus on my studies by reinforcing my consistent study routine, and I will only return to intensive study when I feel mentally better, ensuring I am learning effectively rather than just feeling frustrated.
             </p>
             <br />
             <p>
