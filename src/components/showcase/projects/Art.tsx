@@ -28,19 +28,29 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                 <h2>Pixel Art and Animation</h2>
                 <br />
                 <p>
-                    
+                    In high school, I started learning how to draw and animate
+                    pixel art after becoming interested in video game
+                    development. As I worked on making games over the years, I
+                    learned so much about pixel art and fell in love with
+                    animation.
                 </p>
                 <br />
                 <div className="captioned-image">
                     <img src={girlRun} alt="" />
                     <p>
                         <sub>
-                            <b>Figure 1:</b>
-                        </sub> 
+                            <b>Figure 1:</b> Eight Frame Run cycle animated by
+                            myself, original sprite by kevink
+                        </sub>
                     </p>
                 </div>
                 <p>
-                 
+                    I really started enjoying the work I was doing, and felt I
+                    was improving a lot. Around 2017, I started to upload videos
+                    of my work flow and animation process to YouTube just for
+                    fun. I was really surprised however when my first video took
+                    off and got a few thousand views! Below are the video links
+                    to the work I uploaded to youtube.
                 </p>
                 <br />
                 <h3>Video Links:</h3>
@@ -50,10 +60,11 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href=""
+                            href="https://www.youtube.com/watch?v=pDtUX3ZVHJ0"
                         >
                             <p>
-                                <b>VIDEO</b>
+                                <b>VIDEO</b> - Pixel Art Walk Cycle Time-lapse
+                                and Tutorial
                             </p>
                         </a>
                     </li>
@@ -61,10 +72,11 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href=""
+                            href="https://www.youtube.com/watch?v=xXEDKQ3wSfM"
                         >
                             <p>
-                                <b>VIDEO</b>
+                                <b>VIDEO</b> - Pixel Art "Bag Up" Animation
+                                Time-lapse
                             </p>
                         </a>
                     </li>
@@ -72,10 +84,11 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href=""
+                            href="https://www.youtube.com/watch?v=leZzb-Y0SKQ"
                         >
                             <p>
-                                <b>VIDEO</b> 
+                                <b>VIDEO</b> - Pixel Art Bipedal Creature Run
+                                Cycle Time-lapse
                             </p>
                         </a>
                     </li>
