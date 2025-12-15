@@ -23,7 +23,7 @@ const MusicProjects: React.FC<MusicProjectsProps> = (props) => {
             <br />
             <div className="text-block">
                 <p>
-                Let It Be by The Beatles is my absolute comfort song. When my plans, like studying all that engineering, start to feel too stressful, this song is the perfect remedy. It's the sound of calm and hope, reminding me to simply trust the process and let go of the things I can't control. It's a gentle, reassuring voice that everything will ultimately work itself out.
+               My favorite comfort song is "Let It Be" by The Beatles. When I feel stressed about things like my engineering studies, this song instantly calms me down. It reminds me to stop worrying so much, trust that things will work out, and just let things be. It's a peaceful song that always makes me feel better.
                 </p>
             </div>
             <br />
