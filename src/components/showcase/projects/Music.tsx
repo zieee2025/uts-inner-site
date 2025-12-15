@@ -23,7 +23,7 @@ const MusicProjects: React.FC<MusicProjectsProps> = (props) => {
             <br />
             <div className="text-block">
                 <p>
-                
+                Let It Be by The Beatles is my absolute comfort song. When my plans, like studying all that engineering, start to feel too stressful, this song is the perfect remedy. It's the sound of calm and hope, reminding me to simply trust the process and let go of the things I can't control. It's a gentle, reassuring voice that everything will ultimately work itself out.
                 </p>
             </div>
             <br />
