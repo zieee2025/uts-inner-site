@@ -58,21 +58,12 @@ const MusicProjects: React.FC<MusicProjectsProps> = (props) => {
             <p>
                 Making this five-year plan was really helpful because it took my big dreams and turned them into clear, simple steps. It helped me set goals that are easy to check and track in three main areas: school success, staying healthy, and getting a job.
             </p>
-            <br />
-            <br />
-            <p> The hardest part of engineering school is the courses, so Academic Stability is my first priority. I learned that getting good grades isn't the only point; it's about learning how to study hard and understand difficult things like forces and structures. If I do well here, everything else, like graduating on time, will be much easier.
-            </p>
-            <br />
-            <p>I also realized that I can’t ignore my health. Health and Balance is about making sure I don't burn out. Promising to exercise three times a week and take short, calm breaks every day shows I know that engineering school is a long race. Keeping my mind and body healthy is my way of playing defense against the huge stress I know is coming in the later years.</p>
-            <br />
-            <p>The last goal, Professional Preparedness, is the finish line. It means more than just getting a diploma; it means passing the government’s Board Exam right away and landing a job at a good company. This makes me focus on finding an internship next year and setting aside time to study for that exam before graduation.</p>
-            <br />
-            <p>Thinking about the biggest worry, failing one subject, was the most important part of the plan. My strategy is simple: if I fail, I won't panic. I will first take a deep breath to calm down, then immediately get back to my study routine to fix the problem, and only study when I feel mentally ready so I don't waste time being frustrated. This entire plan helps me solve problems in school and manage myself, making my goal of becoming an engineer feel very real and doable.</p>
+            
             <br />
             
             <br />
             <p>
-               
+               My personal blueprint for success is centered on the absolute goal of achieving professional validation and a secure future: I aim to pass the Civil Engineering Board Exam on my first attempt and secure a full-time engineering position at a reputable company. This aspiration is the powerful engine driving my entire college career, but I recognize that without a strong foundation, the engine will inevitably break down. That's why I've made two equally important commitments that govern my daily choices. The first is Health and Balance, and this is the most critical element of self-preservation. I pledge to maintain my physical and mental well-being throughout college because I understand that the five years of demanding academic work can easily lead to burnout. My health is not a luxury; it is an essential strategy needed to sustain the clarity and focus required to absorb complex technical information and survive the pressure. I am promising my future self that I will arrive at that board exam feeling whole, rested, and mentally sharp, not exhausted and depleted. The second commitment is Academic Stability. I am dedicated to completing all my Civil Engineering subjects precisely on time, which is the practical way I ensure continuous forward momentum toward graduation. More than just keeping to a schedule, this commitment guarantees I build the deep, comprehensive technical foundation necessary not only to pass the high-stakes board exam but to be a truly competent, confident, and professional engineer, ensuring this ambitious goal transforms into a secure reality.
             </p>
             <br />
            
